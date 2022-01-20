@@ -1,5 +1,5 @@
 echo "s1=int(input("enter your s1 marks:"))"
-echo "s2=int(input("enter your s2 marks:"))"
+       "s2=int(input("enter your s2 marks:"))"
 echo "s3=int(input("enter your s3 marks:"))"
 echo "s4=int(input("enter your s4 marks:"))"
 echo "s5=int(input("enter your s5 marks:"))"
